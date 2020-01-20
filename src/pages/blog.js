@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import Layout from './components/layout'
 import './components/blog.css'
 
-
 export default class blog extends Component {
     render() {
         return (
